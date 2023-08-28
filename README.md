@@ -2,7 +2,7 @@
 
 ![image](https://github.com/AditiKulkarni1697/potent-voyage-8716/assets/121330309/e2cc062f-84e3-4174-90cb-b44c77622ae7)
 
-Deployed Link -https://storied-piroshki-62ee51.netlify.app/index.html
+Deployed Link -https://leafy-crisp-0c80a7.netlify.app
 
 ### Team 
 - Aditi Sujlegaonkar
