@@ -7,7 +7,7 @@
 
 Time Trace is a comprehensive time-tracking app designed to help individuals and teams efficiently track their work and manage projects. With its user-friendly interface, integration with popular authentication providers, and powerful features like project creation, task management, and detailed time recording, Time Trace offers a seamless experience for tracking and analyzing work hours.
 
-Deployed Link -https://leafy-crisp-0c80a7.netlify.app
+
 
 ## Team Member
 - Aditi Sujlegaonkar
@@ -49,6 +49,12 @@ Deployed Link -https://leafy-crisp-0c80a7.netlify.app
 - **Graphical Reports**: To further aid analysis, the app generates insightful graphs based on the recorded time data. These graphs provide a visual representation of productivity patterns, helping users identify trends and make data-driven decisions.
 
 <img src="./Frontend/homepage/images/Screenshot 2023-06-18 200126.png" alt="project">
+
+
+## Deployed Link
+
+https://leafy-crisp-0c80a7.netlify.app
+
 
 
 
